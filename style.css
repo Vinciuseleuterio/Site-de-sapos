@@ -38,4 +38,7 @@ img{
 .boi{
     width: 150px;
 }
-
+table{
+    margin: 0 auto;
+    text-align: center;
+}
