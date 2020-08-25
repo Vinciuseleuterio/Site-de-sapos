@@ -39,6 +39,11 @@ img{
     width: 150px;
 }
 table{
+    border: 1px black solid;
     margin: 0 auto;
     text-align: center;
+}
+
+tr, td{
+    border: 1px solid;
 }
